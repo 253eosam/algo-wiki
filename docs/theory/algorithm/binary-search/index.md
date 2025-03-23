@@ -12,7 +12,7 @@
 
 ## 조건
 
-**이진 탐색은 기본적으로 배열이 정렬되어있음을 원칙으로한다.** 
+**이진 탐색은 기본적으로 배열이 정렬되어있음을 원칙으로한다.**
 
 이진탐색을 구현할 땐 정렬된 배열의 중앙 인덱스의 값이 **어떤 값**과 **어떻게** 비교할 것인가가 중요하다.
 이것은 주어진 문제에따라 달라지기때문에 문제를 읽고 이해한뒤에 `left`와 `right`가 어디로 향할 것인가를 먼저 생각하고 구현하는 것이 중요하다.
@@ -22,11 +22,11 @@
 1~10이 들어있는 배열에서 target을 찾는 로직이다.
 
 ```ts
-binarySearch([1,2,3,4,5,6,7,8,9,10], 7)
-function binarySearch (arr: number[], target: number) {
+binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 7)
+function binarySearch(arr: number[], target: number) {
   let [left, right] = [0, arr.length]
 
-  while(left < right) {
+  while (left < right) {
     const mid = Math.floor((left + right) / 2)
 
     if (arr[mid] < target) left = mid + 1
