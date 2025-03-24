@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'ko-KR',
   title: '📚 algo-wiki',
   description: 'A VitePress Site',
+  base:'/algo-wiki/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
