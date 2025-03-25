@@ -88,6 +88,7 @@ export default defineConfig({
             { text: '39 - Combination Sum', link: 'p39' },
             { text: '40 - Combination Sum II', link: 'p40' },
             { text: '41 - First Missing Positive', link: 'p41' },
+            { text: '45. Jump Game II (LeetCode)', link: '45. Jump Game II (LeetCode)' },
             { text: '55 - Jump Game', link: 'p55' },
             { text: '79 - Word Search', link: 'p79' },
             { text: '80 - Remove Duplicates from Sorted Array II', link: 'p80' },
