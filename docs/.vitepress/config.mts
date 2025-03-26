@@ -101,6 +101,7 @@ export default defineConfig({
             { text: '189 - Rotate Array', link: 'p189' },
             { text: '263 - Ugly Number', link: 'p263' },
             { text: '268 - Missing Number', link: 'p268' },
+            { text: '274. H-Index (LeetCode)', link: '274. H-Index (LeetCode)' },
             { text: '278 - First Bad Version', link: 'p278' },
             { text: '704 - Binary Search', link: 'p704' },
           ],
