@@ -21,6 +21,7 @@ export default defineConfig({
           base: '/theory/data-structure/',
           items: [
             { text: '연결 리스트 (Linked List)', link: 'linked-list/' },
+            { text: '스택 (Stack)', link: 'stack/' },
           ],
         },
         {
