@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'ko-KR',
-  title: '📚 algo-wiki',
+  title: 'algo-wiki',
   description: 'A VitePress Site',
   base:'/algo-wiki/',
   themeConfig: {
