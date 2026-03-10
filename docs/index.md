@@ -15,23 +15,22 @@ hero:
 
 features:
   - title: "LeetCode"
-    details: "다양한 LeetCode 문제들의 풀이와 접근법을 제공합니다."
+    details: "LeetCode 문제 풀이 모음"
     link: /problems/leetcode/
   - title: "프로그래머스"
-    details: "코딩 테스트에 자주 출제되는 프로그래머스 문제 풀이 모음."
+    details: "프로그래머스 문제 풀이 모음"
     link: /problems/programmers/
   - title: "백준 (Baekjoon)"
-    details: "알고리즘 문제풀이의 기본, 백준 문제들에 대한 상세한 풀이."
+    details: "백준 문제 풀이 모음"
     link: /problems/baekjoon/
   - title: "Codility"
-    details: "Codility 온라인 테스트 문제들의 솔루션을 정리했습니다."
+    details: "Codility 문제 풀이 모음"
     link: /problems/codility/
   - title: "이론 (Theory)"
-    details: "BFS, DFS, 이진 탐색 등 알고리즘 기초 이론 정리."
+    details: "BFS, DFS, 이진 탐색 등 알고리즘 기초 이론"
     link: /theory
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-  🚀 꾸준히 업데이트 중!<br>
-  ⭐️ 깔끔하게 정리된 알고리즘 & 문제풀이 자료를 확인해보세요.
+  꾸준히 업데이트 중입니다.
 </div>

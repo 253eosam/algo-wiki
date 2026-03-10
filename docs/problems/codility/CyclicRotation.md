@@ -1,4 +1,4 @@
-# Cyclic Rotation 문제 해결
+# Cyclic Rotation
 
 ## 문제 설명
 
@@ -94,6 +94,6 @@ function solution(A: number[], K: number): number[] {
 ;[3, 4, 1, 2]
 ```
 
-### 최종 결론
+### 시간 복잡도
 
-이 코드는 `CyclicRotation` 문제를 **효율적이고 간단한 방식**으로 해결합니다. 배열이 비어 있는 경우와 회전 횟수가 0인 경우를 처리하며, 회전 횟수가 배열 길이보다 큰 경우에는 `K % N`을 활용해 불필요한 계산을 줄입니다.
+- O(N) — `slice`로 배열을 나누는 비용
